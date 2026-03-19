@@ -72,5 +72,5 @@ The ANN model successfully learns patterns in gold price data and provides accur
    pip install -r requirements.txt
 
 2. Run the notebook:
-   ann_gold_price_prediction.ipynb
+   regression_ANN_Project.ipynb
 
